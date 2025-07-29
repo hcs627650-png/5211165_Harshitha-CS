@@ -2,6 +2,8 @@ hello............ Harshitha
  #include <main>
 int main{
 int a,b;
+a=50;
+b=90;
 
 }
 
