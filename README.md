@@ -4,7 +4,8 @@
 ## GIT certificate
 ![5211165_Harshitha CS](GIT/5211165_Harshitha%20CS.png)
 ## Linux Commads
-![linux commands](linux%20commands/linux1.png)
+<img src=" https://github.com/hcs627650-png/5211165_Harshitha-CS/blob/main/linux%20%20commands/linux1.png" alt="Linux Command 1" width="400"/>
+ https://github.com/hcs627650-png/5211165_Harshitha-CS/blob/main/linux%20%20commands/linux1.png
 ## Linux Commads
 ![linux commands](linu%20commands/linux2.png)
 ## Linux Commads
