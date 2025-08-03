@@ -22,7 +22,7 @@
 ## Linux Commands
 <img src="linux_commands/linux9.png" alt="Linux Command 9" width="800"/>
 ## linux commands
-<img src="linux_command/linux10.png" alt="linux command 10"  width="800"/>
+<img src="linux_commands/linux10.png" alt="linux command 10"  width="800"/>
 
 
 
