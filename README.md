@@ -57,6 +57,10 @@ int main() {
     return 0;
 }
 
+## sololearn certificate
+<img src="c_sololearn/c_basic.png" alt="basic c " width="800"/>
 
+## sololearn certificate
+<img src="c_sololearn/c_intermediate.png" alt="intermediate c" width="800"/>
 
 
